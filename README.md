@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hi, I am Gabriel Margarido! 👋  
+## A young developer and researcher passionated about computer science, compilers, logic and quantum physics.  
+  
+Here you can find:
+ - HTML++ Programming Language
+ (a super improved compiler for HTML5 (supporting variables, functions, arrays, etc...)  
+ 
+ - S# Programming Language - A programming language that compiles to Lua Virtual Machine, write once and run anywhere (WORA)
+ by this way, you should compile Lua Virtual Machine for the current hardware and operating system (locally or globally).
+  
+ - NodeRun - Run TypeScript files directly from Node.js without transpiling them (inspired on:  *deno run*).  
+   
+ - ARM Package Manager - A lightweight local package manager for UNIXes (It is similar to *snapd*, however you can package
+ binary files or source files). Generated packages has (.arm) or (.src.arm) and they can be installed via:  
+   
+ *arm-pkg -i PACKAGE.VERSION.ARCH*  
+ *arm-src -i PACKAGE.VERSION.ARCH*  
+  
+  
+- Parrot Environment - A library to detect if the current operating system is or not an UNIX.
+- SimpleDock - A Shell Script to centralize your dock on Ubuntu GNOME and be look like macOS.
+- TinkerCad Desktop - A version of TinkerCad for Desktop (macOS - x86_64 and aarch64;  Windows x86;  Linux IA32 and amd64)
+  
+  
+If you wish you can send pull requests of any repository.  
+Gabriel Margarido.  
+
+
 
 <div align="center">
   <a href="https://github.com/polskidev">
