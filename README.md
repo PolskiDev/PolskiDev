@@ -17,7 +17,7 @@ Here you can find:
  *arm-src -i PACKAGE.VERSION.ARCH*  
   
   
-- Parrot Environment - A library to detect if the current operating system is or not an UNIX.
+- Parrot Environment - A library for Lua to detect if the current operating system is or not an UNIX.
 - SimpleDock - A Shell Script to centralize your dock on Ubuntu GNOME and be look like macOS.
 - TinkerCad Desktop - A version of TinkerCad for Desktop (macOS - x86_64 and aarch64;  Windows x86;  Linux IA32 and amd64)
   
